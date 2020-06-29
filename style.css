@@ -1,0 +1,59 @@
+body{
+  
+    padding: 0 50px;
+}
+.navbar{
+  padding: 5px 10px;
+
+}
+.content{
+    margin-left: 5%;
+}
+.title{
+   
+    text-align: center;
+}
+.sqs-block-content{
+   
+}
+#chapters{
+    font-weight: bold;
+    margin-top: 10px;
+    
+    
+}
+.column{
+    background-color: rgb(210, 233, 225);
+    height: 100vh;
+}
+a{
+    color: rgb(77, 102, 240);
+    font-weight: bolder;
+     
+}
+.content ul li{
+    margin-bottom: 20px;
+}
+img{
+    height:80%;
+    
+
+}
+.oneside{
+    /* margin-bottom: -20%;
+    padding-bottom: -20%; */
+    height: 100vh;
+}
+.num2{
+    margin-bottom: -10%;
+}
+
+h1{
+    color: rgb(241, 108, 68);
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(95, 93, 93);
+    font-weight: 500;
+    
+}
